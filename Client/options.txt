@@ -1,0 +1,1 @@
+lastServer:://servegame.com:25565
