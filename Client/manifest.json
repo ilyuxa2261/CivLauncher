@@ -31,6 +31,54 @@
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "size": 0
   },
+  "mods/appleskin-neoforge-mc1.21-3.0.9.jar": {
+    "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
+    "size": 75804
+  },
+  "mods/architectury-13.0.8-neoforge-1.21.jar": {
+    "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+    "size": 584004
+  },
+  "mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar": {
+    "sha256": "269ea911c14ba63c972b85f43ff4da1c940faae4e80a496d6416a5f683d1b7c2",
+    "size": 192872
+  },
+  "mods/ftb-library-neoforge-2101.1.31.jar": {
+    "sha256": "3d44705187cf938842e06d484a93e0491b82b0689785e6da4f7cabe40bd88aeb",
+    "size": 1411181
+  },
+  "mods/ftb-quests-neoforge-2101.1.24.jar": {
+    "sha256": "7fb6e1c4f083d8fa760d82696ee36375c037170e05823b9c2ef89ae5b602384a",
+    "size": 1466155
+  },
+  "mods/ftb-teams-neoforge-2101.1.10.jar": {
+    "sha256": "a656f2aa0e11a933aab3ba697690aa0eb2041f65e6c5daa448897ee0a6d37a6c",
+    "size": 302712
+  },
+  "mods/jei-1.21.1-neoforge-19.27.0.336.jar": {
+    "sha256": "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721",
+    "size": 1529192
+  },
+  "mods/libraryferret-neoforge-1.21.1-4.0.0.jar": {
+    "sha256": "fcc7cbe7ec7d2e5bce6a9d24c14d94bc27a577c293311077476e5f43937be1a2",
+    "size": 139464
+  },
+  "mods/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar": {
+    "sha256": "3946f142a7ac98508ce7c25acdd750271265444999f8d253e3505d4e7881a66d",
+    "size": 1577086
+  },
+  "mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar": {
+    "sha256": "35468c8e00f77ec6649c45d9af1ea93a8f649638c7e70f9e80cdae7fab006112",
+    "size": 1421133
+  },
+  "mods/voicechat-neoforge-1.21.1-2.6.18.jar": {
+    "sha256": "fb0dc1f4bb36f471fafc86fee12b963f036ddf8d4622653509d884bbed96b1e5",
+    "size": 4902837
+  },
+  "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar": {
+    "sha256": "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb",
+    "size": 1387011
+  },
   "assets/indexes/17.json": {
     "sha256": "be77c42c904b760fd8d12c9fa4d3e2477d0764868162f6afca772161f937563b",
     "size": 449456
