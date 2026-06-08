@@ -16140,7 +16140,7 @@
     "size": 6
   },
   "runtime/java-runtime-delta/windows-x64/java-runtime-delta.sha1": {
-    "sha256": "7c1c8987edbe8e1e9bdc63f024f8ac76d3b1a832b90e585da787f692a2f28f17",
+    "sha256": "638f58815c42f073642b2758eea0c784db2ea66723ff6d6bbfcd3741e18ad241",
     "size": 39733
   },
   "runtime/java-runtime-delta/windows-x64/java-runtime-delta/release": {
@@ -17775,11 +17775,11 @@
     "sha256": "9abf0095066ebab37b78968e11370a8078313e48cb5be8eda01f67623c6a6248",
     "size": 398336
   },
-  "versions/neoforge-21.1.233/natives/jna9679117060132635636.dll": {
+  "versions/neoforge-21.1.233/natives/jna3502762200709097060.dll": {
     "sha256": "69c45175ecfd25af023f96ac0bb2c45e6a95e3ba8a5a50ee7969ccab14825c44",
     "size": 254464
   },
-  "versions/neoforge-21.1.233/natives/jna9679117060132635636.dll.x": {
+  "versions/neoforge-21.1.233/natives/jna3502762200709097060.dll.x": {
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "size": 0
   },
