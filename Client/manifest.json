@@ -1,31 +1,19 @@
 {
-  ".version": {
-    "sha256": "7448fc2ab1647b42e74b4a1a02c8ab5cc1e04cb2dc2d94bec442ec37cb3e2948",
-    "size": 5
-  },
   "launcher_profiles.json": {
     "sha256": "4f4e0e13d6c98020b4914e310e1d245cc877173f6a014d3a5f7c9166646f782b",
     "size": 90415
   },
-  "launcher_version.txt": {
-    "sha256": "6b13789e43e5485634533de16a65d8ba9d34c4c9758588b665805435f80eb115",
-    "size": 5
-  },
-  "manifest.json": {
-    "sha256": "1b455ccadc00ca642c340c7e369f07b8a285fd12aee327639cafee87d215d7eb",
-    "size": 791872
-  },
   "options.txt": {
-    "sha256": "79d189fe7e54807cf17da974916936c3f03a935f6938c9fd9868277938479373",
-    "size": 35
+    "sha256": "bae2bf4ca1419f046dffe7b1efbd04e96281a34a5c11198459622e7ea949e9b7",
+    "size": 42
   },
   "servers.dat": {
-    "sha256": "fb869eb62f69e580265858bebe11c0bc09d30237b77ea856f0976972781ec09d",
-    "size": 84
+    "sha256": "eb1b013eed3d796396333f655884935a97465a4de2fc4a130b7841f38b563b57",
+    "size": 91
   },
   "servers.dat_old": {
-    "sha256": "3bee66802e8596afd50b25aa5597b7d94d928bacbcb951825f86f7cc0958c568",
-    "size": 76
+    "sha256": "76ecabd93ad0c51d7c1e286e7c5fdb2a29aaf706595f480a4f306b2f5b5d3a5a",
+    "size": 83
   },
   "config/fml.toml": {
     "sha256": "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825",
@@ -16152,7 +16140,7 @@
     "size": 6
   },
   "runtime/java-runtime-delta/windows-x64/java-runtime-delta.sha1": {
-    "sha256": "819f52ef5dc258e8abad1483a0f50d62a9acc810f9e9c10eb82e5c59d5a3d55f",
+    "sha256": "b21fc15f7e363bd70f58a50a807bc126776a261b366e6fb37076433c401d6de9",
     "size": 39733
   },
   "runtime/java-runtime-delta/windows-x64/java-runtime-delta/release": {
@@ -17787,11 +17775,11 @@
     "sha256": "9abf0095066ebab37b78968e11370a8078313e48cb5be8eda01f67623c6a6248",
     "size": 398336
   },
-  "versions/neoforge-21.1.233/natives/jna18100279885133489544.dll": {
+  "versions/neoforge-21.1.233/natives/jna4184242705448516707.dll": {
     "sha256": "69c45175ecfd25af023f96ac0bb2c45e6a95e3ba8a5a50ee7969ccab14825c44",
     "size": 254464
   },
-  "versions/neoforge-21.1.233/natives/jna18100279885133489544.dll.x": {
+  "versions/neoforge-21.1.233/natives/jna4184242705448516707.dll.x": {
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "size": 0
   },

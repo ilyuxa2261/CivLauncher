@@ -1,1 +1,1 @@
-lastServer:://servegame.com:25565
+lastServer:civ-ilyux.servegame.com:25565
