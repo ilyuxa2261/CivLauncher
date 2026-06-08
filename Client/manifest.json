@@ -11,6 +11,10 @@
     "sha256": "6b13789e43e5485634533de16a65d8ba9d34c4c9758588b665805435f80eb115",
     "size": 5
   },
+  "manifest.json": {
+    "sha256": "1b455ccadc00ca642c340c7e369f07b8a285fd12aee327639cafee87d215d7eb",
+    "size": 791872
+  },
   "options.txt": {
     "sha256": "79d189fe7e54807cf17da974916936c3f03a935f6938c9fd9868277938479373",
     "size": 35
