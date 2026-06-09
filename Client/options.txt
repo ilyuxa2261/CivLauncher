@@ -1,3 +1,7 @@
 lastServer:civ-ilyux.servegame.com:25565
 darkMojangStudiosBackground:true
+DarkMojangStudiosBackground:true
 monochromeLogo:true
+MonochromeLogo:true
+darkMojangLogo:true
+DarkMojangLogo:true
