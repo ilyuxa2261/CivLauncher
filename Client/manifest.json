@@ -63,13 +63,13 @@
     "sha256": "fcc7cbe7ec7d2e5bce6a9d24c14d94bc27a577c293311077476e5f43937be1a2",
     "size": 139464
   },
-  "mods/nomojang-1.3.0.jar": {
-    "sha256": "d506ca984bd50883d4e0171f674cf7f2b64607441f1d04d7cc53a1552047aa0b",
-    "size": 295282
-  },
   "mods/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar": {
     "sha256": "3946f142a7ac98508ce7c25acdd750271265444999f8d253e3505d4e7881a66d",
     "size": 1577086
+  },
+  "mods/rrls-5.0.10+mc1.21.1-forge.jar": {
+    "sha256": "2e23b281f95ba0c55073026e0c16d207890d7785869ed975f62ca01edbc984e0",
+    "size": 180241
   },
   "mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar": {
     "sha256": "35468c8e00f77ec6649c45d9af1ea93a8f649638c7e70f9e80cdae7fab006112",
