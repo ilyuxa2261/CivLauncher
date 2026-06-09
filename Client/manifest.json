@@ -4,8 +4,8 @@
     "size": 90415
   },
   "options.txt": {
-    "sha256": "ea6e5358582addee17275018b4febf08cc72f4720f8b15b0e018bed3a628dbe2",
-    "size": 192
+    "sha256": "86dadf716f1f56417e90f10f9aca19358c2a6b891dd375c36830eb6ceb5ae02c",
+    "size": 40
   },
   "servers.dat": {
     "sha256": "eb1b013eed3d796396333f655884935a97465a4de2fc4a130b7841f38b563b57",
@@ -66,6 +66,10 @@
   "mods/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar": {
     "sha256": "3946f142a7ac98508ce7c25acdd750271265444999f8d253e3505d4e7881a66d",
     "size": 1577086
+  },
+  "mods/seamless-loading-screen-2.2.1+1.21-neoforge.jar": {
+    "sha256": "ab251f81080f4d0891d8576ab14b598f3e46b699a17baf58ffab7a9a2efeb395",
+    "size": 258077
   },
   "mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar": {
     "sha256": "35468c8e00f77ec6649c45d9af1ea93a8f649638c7e70f9e80cdae7fab006112",
