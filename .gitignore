@@ -1,0 +1,11 @@
+# Игнорируем runtime и временные файлы
+Client/runtime/
+Client/runtime-jre/
+Client/servers.dat_old
+Client/servers.dat
+Client/*.log
+Client/crash-reports/
+Client/logs/
+Client/screenshots/
+*.tmp
+*.bak
