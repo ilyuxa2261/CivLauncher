@@ -36,7 +36,7 @@
     "size": 1143
   },
   "config/libraryferret_1.properties": {
-    "sha256": "786356ad896be6d2c4e9a6fa7c3c7af4bae64428e20740b1359b8bfc7d5ae865",
+    "sha256": "5f297551bfa35579f9d4974026b9015646957e40335dbd522fd34f610595c16f",
     "size": 194
   },
   "config/neoforge-client.toml": {
@@ -58,6 +58,10 @@
   "config/xaeropatreon.txt": {
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "size": 0
+  },
+  "debug/disconnect-2026-06-13_17.36.14-client.txt": {
+    "sha256": "8ed759e2726080e64ad8377727984a81ae85426580b5d190a2f92d2ba4d1f1d1",
+    "size": 10457
   },
   "downloads/log.json": {
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -16284,7 +16288,7 @@
     "size": 6
   },
   "runtime/java-runtime-delta/windows-x64/java-runtime-delta.sha1": {
-    "sha256": "49b25902de8877b94ca915cfb6da1f052ca00b08b4caa8f3269391ef2f3c6f08",
+    "sha256": "eb2a02e7eb4c573f7e06611f97e6856ab863dd25a1ea49bc8d120c6497e48012",
     "size": 39733
   },
   "runtime/java-runtime-delta/windows-x64/java-runtime-delta/release": {
@@ -17919,11 +17923,11 @@
     "sha256": "9abf0095066ebab37b78968e11370a8078313e48cb5be8eda01f67623c6a6248",
     "size": 398336
   },
-  "versions/neoforge-21.1.233/natives/jna13991997911727616649.dll": {
+  "versions/neoforge-21.1.233/natives/jna10314816590365654542.dll": {
     "sha256": "69c45175ecfd25af023f96ac0bb2c45e6a95e3ba8a5a50ee7969ccab14825c44",
     "size": 254464
   },
-  "versions/neoforge-21.1.233/natives/jna13991997911727616649.dll.x": {
+  "versions/neoforge-21.1.233/natives/jna10314816590365654542.dll.x": {
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "size": 0
   },
@@ -17952,23 +17956,19 @@
     "size": 53
   },
   "xaero/world-map/Multiplayer_civ-ilyux.servegame.com/null/mw$-1279057841/-1_-1.zip": {
-    "sha256": "66546a204ebc407ee8b68793102a19bf2f869c9227e96ee6f871079236da2104",
-    "size": 18683
+    "sha256": "08d8ce60795e9599339c365868812650acee747a128e8e2091f5b8426e5a27b8",
+    "size": 7416
   },
   "xaero/world-map/Multiplayer_civ-ilyux.servegame.com/null/mw$-1279057841/-1_0.zip": {
-    "sha256": "c1464bf18f88367b7f7b8bad589c883d3305958c855a5aa6302d6b85991cf9a5",
-    "size": 16870
+    "sha256": "afe7ab2f77f03074bf2b2021783742f4aa9911892b8e567e152dbb22653ff98f",
+    "size": 3034
   },
   "xaero/world-map/Multiplayer_civ-ilyux.servegame.com/null/mw$-1279057841/.lock": {
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "size": 0
   },
-  "xaero/world-map/Multiplayer_civ-ilyux.servegame.com/null/mw$-1279057841/0_-1.zip": {
-    "sha256": "95617062c8ed0503c0b6a87e8a5ba0c366886e136e6aea3aa730be2c09625b35",
-    "size": 6034
-  },
   "xaero/world-map/Multiplayer_civ-ilyux.servegame.com/null/mw$-1279057841/0_0.zip": {
-    "sha256": "f4a4f15e372de97b884e621ef8e04d6d062478902afcf8d49942fada2e97ab38",
-    "size": 5373
+    "sha256": "0406d881ab54e210c2d5803ba5f7691e5e4fd79dfae2c4f504ec4c0410cd013f",
+    "size": 1384
   }
 }
