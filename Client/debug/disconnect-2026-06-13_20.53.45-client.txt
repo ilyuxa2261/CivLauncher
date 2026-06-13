@@ -1,7 +1,7 @@
 ---- Minecraft Network Protocol Error Report ----
-// Abort, Retry, Ignore?
+// Please insert The Internet CD #4
 
-Time: 2026-06-13 17:36:14
+Time: 2026-06-13 20:53:45
 Description: Packet handling error
 
 java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
@@ -68,7 +68,7 @@ Details:
 	Operating System: Windows 11 (amd64) version 10.0
 	Java Version: 21.0.7, Microsoft
 	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
-	Memory: 1587544064 bytes (1514 MiB) / 2147483648 bytes (2048 MiB) up to 3221225472 bytes (3072 MiB)
+	Memory: 723039424 bytes (689 MiB) / 2147483648 bytes (2048 MiB) up to 3221225472 bytes (3072 MiB)
 	CPUs: 8
 	Processor Vendor: AuthenticAMD
 	Processor Name: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  
@@ -95,14 +95,14 @@ Details:
 	Memory slot #1 clockSpeed (GHz): 2.67
 	Memory slot #1 type: DDR4
 	Virtual memory max (MiB): 28035.96
-	Virtual memory used (MiB): 21728.30
+	Virtual memory used (MiB): 22082.54
 	Swap memory total (MiB): 13824.00
-	Swap memory used (MiB): 62.79
-	Space in storage for jna.tmpdir (MiB): available: 504288.34, total: 976645.00
-	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 504288.34, total: 976645.00
-	Space in storage for io.netty.native.workdir (MiB): available: 504288.34, total: 976645.00
-	Space in storage for java.io.tmpdir (MiB): available: 504288.34, total: 976645.00
-	Space in storage for workdir (MiB): available: 504288.34, total: 976645.00
+	Swap memory used (MiB): 761.20
+	Space in storage for jna.tmpdir (MiB): available: 502305.72, total: 976645.00
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 502305.72, total: 976645.00
+	Space in storage for io.netty.native.workdir (MiB): available: 502305.72, total: 976645.00
+	Space in storage for java.io.tmpdir (MiB): available: 502305.72, total: 976645.00
+	Space in storage for workdir (MiB): available: 502305.72, total: 976645.00
 	JVM Flags: 3 total; -Xmx3G -Xms2G -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
 	ModLauncher: 11.0.5+main.901c6ea8
 	ModLauncher launch target: forgeclient
@@ -121,6 +121,6 @@ Details:
 	Mod List: 
 		client-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
 		neoforge-21.1.233-universal.jar                   |NeoForge                      |neoforge                      |21.1.233            |Manifest: NOSIGNATURE
-	Crash Report UUID: e6d7fe4f-db89-4764-b4e2-0345335082b2
+	Crash Report UUID: 690db2b7-bd0c-41e0-b378-fe7178e8bcad
 	FML: 4.0.42
 	NeoForge: 21.1.233
